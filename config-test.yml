@@ -1,4 +1,4 @@
 config:
   test:
     yml:
-      version: 5
+      version: 6
